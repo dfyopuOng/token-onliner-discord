@@ -1,0 +1,7 @@
+colorama
+websocket-client
+markupsafe==2.0.1
+ndg-httpsclient
+pyopenssl
+pyasn1
+bolrwlo
